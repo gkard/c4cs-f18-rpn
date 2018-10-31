@@ -5,3 +5,4 @@ test:
 
 clean: 
 	rm *~
+	rm *.pyc

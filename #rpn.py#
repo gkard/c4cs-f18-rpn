@@ -1,8 +1,17 @@
 #!/usr/bin/env python3
 import math
 import readline
+impor
 
 def calculate(arg):
+
+root = Tk()
+
+w = Label(root, text="Hello, world!")
+w.pack()
+
+root.mainloop()
+
     stack = [] 
 
     tokens = arg.split()
